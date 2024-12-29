@@ -1,2 +1,2 @@
 # Gen-AI-Writing-Assistant
-Gen AI Writing Assistant Project
+This is a Generative AI writing assistant created using Python and Ollama (llama2)
